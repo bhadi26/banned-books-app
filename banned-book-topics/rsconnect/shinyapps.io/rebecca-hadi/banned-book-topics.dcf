@@ -1,0 +1,13 @@
+name: banned-book-topics
+title: banned-book-topics
+username:
+account: rebecca-hadi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5551785
+bundleId: 5528274
+url: https://rebecca-hadi.shinyapps.io/banned-book-topics/
+when: 1643667099.29926
+lastSyncTime: 1643667099.29928
+asMultiple: FALSE
+asStatic: FALSE
